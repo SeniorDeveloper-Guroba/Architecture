@@ -2,7 +2,7 @@
 //  BuilderProtocol.swift
 //  
 //
-//  Created by Senior Developer on 10.09.2022.
+// 
 //
 import UIKit
 

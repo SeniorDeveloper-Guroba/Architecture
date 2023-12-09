@@ -6,7 +6,7 @@
 //
 import UIKit
 
-public protocol BuilderProtocol: AnyObject {
+public protocol BuilderProtocol {
     
     associatedtype V : ViewProtocol
     associatedtype VM: ViewManager<V>
